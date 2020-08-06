@@ -1,0 +1,7 @@
+To: kingsartillery@kingsbatterymountaineers.com 
+From: [email] 
+Subject: Query from [name]
+
+Customer Contact Information
+name: [name]
+email: [email]
