@@ -1,0 +1,31 @@
+h1 {
+	font-weight: normal;
+	color: #A5735F;
+	font-size: 24px;
+}
+p {
+	font-size: 15px;
+	line-height: 150%;
+	margin-top: 0px;
+	color: #503E28;
+}
+.twoColFixRtHdr #container #mainContent h1 {
+	margin-bottom: 3px;
+}
+#sidebar1 p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin-bottom: 10px;
+}
+#contact .question {
+	font-weight: bold;
+	display: block;
+	margin-top: 15px;
+	padding-top: 5px;
+	border-top-width: 1px;
+	border-top-style: dashed;
+	border-top-color: #A67E6B;
+}
+label {
+	color: #A67E6B;
+}
